@@ -7,7 +7,7 @@
 На тестирование затрачено: 0,5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* Дефекты не выявлены.
+* [Программа ValidCardNumber определяет валидные номера как невалидные](https://github.com/ShalopaykaQA/Credit-Card-Number-Validator/issues/1)
 
 ## Описание процесса тестирования
 
@@ -78,5 +78,3 @@ Maestro:
 * Java  version "11.0.9" 2020-10-20
 * OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9+11)
 * OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9+11, mixed mode)
-
-
