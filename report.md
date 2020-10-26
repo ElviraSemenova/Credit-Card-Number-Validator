@@ -7,7 +7,7 @@
 На тестирование затрачено: 0,5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [Программа ValidCardNumber определяет валидные номера как невалидные](https://github.com/ShalopaykaQA/Credit-Card-Number-Validator/issues/1)
+* [Программа Credit Card Number Validator определяет валидные номера как невалидные](https://github.com/ShalopaykaQA/Credit-Card-Number-Validator/issues/1)
 
 ## Описание процесса тестирования
 
